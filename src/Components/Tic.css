@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+  }
+  .xandyturn{
+    height:15px;
+   
+  }
+  .buttondiv{
+    margin-left: 620px;
+    margin-top: 50px;
+  }
+  .pblock{
+    width:100%;
+    height:90px;
+    font-size: 50px;
+    padding-left: 30px;
+  }
+  .topleft{
+    border-right:1px solid black;
+    border-bottom:1px solid black;
+  }
+  .topcenter{
+    border-right:1px solid black;
+    border-bottom:1px solid black;
+    border-left:1px solid black;
+   
+   }
+   .topright{
+    border-bottom:1px solid black;
+    border-left:1px solid black;
+   }
+   .centerleft{
+    border-right:1px solid black;
+    border-bottom:1px solid black;
+    border-top:1px solid black;
+  }
+  .centercenter{
+    border-right:1px solid black;
+    border-bottom:1px solid black;
+    border-left:1px solid black;
+    border-top:1px solid black;
+  }
+  .centerright{
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+    border-top:1px solid black;
+  }
+  .downleft{
+    border-top:1px solid black;
+    border-right:1px solid black;
+  }
+  .downcenter{
+    border-left:1px solid black;
+    border-right:1px solid black;
+    border-top:1px solid black;
+  }
+  .downright{
+    border-left:1px solid black;
+    border-top:1px solid black;
+  }
+  
