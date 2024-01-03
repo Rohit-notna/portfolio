@@ -8,6 +8,7 @@ import GuessTheNumber from './Components/GuessTheNumber';
 import FormValidation from './Components/FormValidation';
 import Footer from '../src/Components/Footer'
 import Table from './Components/Table';
+import About from './Components/About';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="guess" element={<GuessTheNumber/>}/>
         <Route path="form" element={<FormValidation/>}/>
         <Route path="/table" element={<Table/>}/>
+        <Route path="/about" element={<About/>}/>
 
 
 
