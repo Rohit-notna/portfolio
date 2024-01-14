@@ -6,7 +6,7 @@ export default function Notna() {
 const navigate =  useNavigate();
 
 const handleNavigate=()=>{
-window.open("https://drive.google.com/file/d/14ZguJ74U_JvdMzpgwXHDLJd5EO0uQ4Y0/view?usp=sharing")
+window.open("https://in.docs.wps.com/l/sIM-RjrVLtcWRrQY?v=v2")
 }
   return (
     <div className='bg-black pt-20'>
